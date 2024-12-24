@@ -10,4 +10,4 @@ __init__.py
 node_modules/
 *.xml
 /assets
-/allure-report
+/allure-results
